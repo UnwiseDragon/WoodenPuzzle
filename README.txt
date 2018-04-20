@@ -1,0 +1,1 @@
+To run this program, simply run Solver using Eclipse. To change the solution, the line Collections.sort(ps); can be commented, uncommented, or otherwise edited. The initial form is the fastest solution.
